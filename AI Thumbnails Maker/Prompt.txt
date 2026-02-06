@@ -1,0 +1,16 @@
+App Specification Prompt: AI Thumbnails Maker
+
+"Build a professional React application called AI Thumbnails Maker that generates viral YouTube thumbnails using the Google Gemini 3 Image API.
+
+Core Functionality:-
+Create Mode: Generate images from scratch using a Video Title, Description, and optional uploads for Headshots (People/Animals), Reference Sketches, and Channel Logos.
+Swap Mode: Perform precise character replacement in an existing thumbnail while strictly preserving the original background and text.
+Remix Mode: Edit existing thumbnails using text instructions and image overlays to change vibes or add elements.
+
+UI/UX Requirements:-
+Layout: A sticky, multi-step sidebar for inputs and a large responsive grid for results.
+Visuals: Modern 'Inter' font, sleek gradients (Indigo/Pink), and a themed Splash Screen.
+Navigation: A collapsible Sidebar containing 'Recent History' (with color-coded mode bands) and 'Saved Items.'
+Interactivity: A zoomable Image Modal with pinch-to-zoom/drag, and 'Copy Prompt' buttons for every result.
+Feedback: A sophisticated loading state featuring a central 'Ripple' animation, progress bars with descriptive status updates (e.g., 'Composing Layout...'), and robust error handling with exponential backoff retries for API rate limits.
+Configuration Options: Support 16:9 (Video) and 9:16 (Shorts) formats, variation counts (1-4), 15+ predefined artistic styles (Gaming, Hype, MrBeast, etc.), and custom accent color palettes."
