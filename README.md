@@ -16,7 +16,6 @@ Just like a guitar creates music:
 
 If tuning is right, the output resonates perfectly ✨
 
----
 
 ## 🌬️ What is Respiratory?
 
@@ -29,7 +28,6 @@ If tuning is right, the output resonates perfectly ✨
 
 This makes **Respiratory the best AI layer** for my app — flexible, scalable, and production-ready 🚀
 
----
 
 ## 🚀 Why Respiratory is Best for My Application
 
@@ -38,7 +36,3 @@ This makes **Respiratory the best AI layer** for my app — flexible, scalable, 
 ✔ Easy prompt iteration & tuning 🎚️  
 ✔ Clean architecture for learning & production  
 ✔ Perfect for demos, hackathons, and real-world apps
-
----
-
-## 🔁 Working Flow (In Rhythm)
