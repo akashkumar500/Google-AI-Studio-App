@@ -198,5 +198,4 @@ Free to adapt, extend, and productionize.
 
 **Akash Kumar**  
 AI • Programming • Product Design  
-
-Designed with scalability, security, and future SaaS growth in mind 🚀
+Designed with security, clarity, and scalability in mind 🚀
