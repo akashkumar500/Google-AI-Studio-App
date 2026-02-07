@@ -208,14 +208,14 @@ Each session generates:
 
 ---
 
-💡 **Goal:**  
-Create a system that feels less like an app and more like a **personal JEE mentor powered by AI**.
-
----
-
 ## 🙌 Author
 
 **Akash Kumar**  
 AI • Programming • Product Design  
 
 Designed with scalability, security, and future SaaS growth in mind 🚀
+
+---
+
+💡 **Goal:**  
+Create a system that feels less like an app and more like a **personal JEE mentor powered by AI**.
