@@ -1,0 +1,25 @@
+App Specification Prompt: JEE Gagan AI
+
+"Build a professional, high-performance React application called JEE Gagan AI, designed as an elite academic analysis and preparation tool for JEE Mains, JEE Advanced, and Class 12 Boards.
+
+Core Functionality:-
+Deep Topic Analysis: Perform AI-powered web searches to generate:
+10-Year Trend Analysis: Year-wise question counts visualized via interactive AreaCharts.
+Weightage & Difficulty: Automatic calculation of average marks and a PieChart distribution of Easy/Medium/Hard questions.
+Content Generation: Lists of most repeated questions (PYQs), AI-predicted questions for the next session, and a professional syllabus overview.
+Interactive Practice Arena: A multi-mode training module featuring:
+Quiz Mode: Support for Single and Multi-correct MCQs with deep explanations.
+Flashcard Mode: Active recall drills for formulas and 'trick' concepts.
+Numerical Mode: Integer/Decimal input problems with specific tolerance-based grading.
+Configuration: Users can toggle difficulty (Mixed/Hard), count (5-50), and source (Strict PYQs vs. AI Predictions).
+Rank Intelligence: A rank predictor that estimates AIR (All India Rank) and Percentile based on historical marks-vs-difficulty data, providing likely NIT/IIT college options.
+Smart Revision Hub: High-yield notes with automatic formula highlighting, strategic preparation tips, and a 'Research Hub' with clickable external source citations.
+
+UI/UX & Visual Identity:-
+Aesthetics: A 'Premium EdTech' look using a clean Indigo/Purple/Accent gradient palette, rounded corners (2rem), and deep shadows for a card-based layout.
+Advanced Components:
+A Solution Modal that streams step-by-step AI solutions for any question.
+A Context-Aware ChatBot that remembers the analyzed topic to answer follow-up doubts.
+Reporting: A comprehensive 'Session Report' with performance grades (S to F), accuracy metrics, and time-per-question analysis.
+Micro-interactivity: A sophisticated splash screen with 'Orbital/Scanning' animations, staggered entry transitions for data cards, and an image export feature (html2canvas) to save reports as PNGs.
+Technical Stack: Use React (Tailwind CSS), Lucide Icons, Recharts for data visualization, and the Gemini 3 API for real-time web-grounded analysis and streaming solutions."
