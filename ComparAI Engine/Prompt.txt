@@ -15,4 +15,3 @@ Animations: Sophisticated CSS transitions for sidebar expand/collapse actions (5
 Export & Utility: Tools to add new items to an existing session, a 'Regenerate' function for fresh data, and export options for Text Reports, CSV Data, and high-resolution Screenshots using html2canvas.
 Visual Theme: A professional palette using Indigo and Slate, 'Inter' typography, 2rem rounded corners, and a sticky global progress bar that animates during AI generation.
 Robustness: Implementation of exponential backoff retry logic for API rate limits and a 'thinking' state overlay for a smooth user experience."
-lightbulb_tips
