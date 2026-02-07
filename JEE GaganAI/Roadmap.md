@@ -211,9 +211,8 @@ Each session generates:
 ## 🙌 Author
 
 **Akash Kumar**  
-AI • Programming • Product Design  
-
-Designed with scalability, security, and future SaaS growth in mind 🚀
+AI • Programming • Product Design
+Designed with security, clarity, and scalability in mind 🚀
 
 ---
 
