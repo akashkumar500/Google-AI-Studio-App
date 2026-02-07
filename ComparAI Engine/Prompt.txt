@@ -1,0 +1,18 @@
+App Specification Prompt: ComparAI Engine
+
+"Build a polished, responsive React application called ComparAI Engine that allows users to compare any number of items (products, places, or concepts) using the Google Gemini 3 API for real-time market research and technical analysis.
+
+Core Functionality:-
+AI Research & Synthesis: Generate deep comparisons by simulating web searches for real-world specifications, official image URLs, and live market prices in Indian Rupees (₹) from major vendors like Amazon and Flipkart.
+Dynamic Structure: Allow users to set a fixed number of Modules and Chapters via a 'Control Panel,' while the AI dynamically generates a variable number of lessons per chapter based on topic complexity.
+Comparison Canvas: A dual-mode viewer (Responsive Grid vs. Data Table) that displays concise Markdown Notes (bullet points, bolded keywords, and code blocks), executive summaries, and visual design analysis.
+Visual Metrics: Interactive data visualization using Recharts, featuring Bar Charts for specific metrics and Radar Charts for a normalized 0-100 'AI Score' overview (Performance, Value, Build, and Features).
+AI Consultant: A context-aware chat assistant (Popup and Fullscreen modes) that provides personalized recommendations based on the active comparison data.
+
+UI/UX Requirements:-
+Layout & Navigation: A high-end 'Glassmorphism' UI with a collapsible sidebar. The sidebar must feature a toggle button in the top-right corner and a 'Recent History' section where items are grouped by date (Today, Yesterday, Previous) with distinct icons for different result types (Course, Discovery, Visual).
+Animations: Sophisticated CSS transitions for sidebar expand/collapse actions (500ms cubic-bezier), slide-up fade effects for result cards, and a themed Splash Screen with a spinning 'Core' and descriptive status updates (e.g., 'Calibrating AI models...').
+Export & Utility: Tools to add new items to an existing session, a 'Regenerate' function for fresh data, and export options for Text Reports, CSV Data, and high-resolution Screenshots using html2canvas.
+Visual Theme: A professional palette using Indigo and Slate, 'Inter' typography, 2rem rounded corners, and a sticky global progress bar that animates during AI generation.
+Robustness: Implementation of exponential backoff retry logic for API rate limits and a 'thinking' state overlay for a smooth user experience."
+lightbulb_tips
